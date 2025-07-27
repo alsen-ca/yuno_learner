@@ -2,6 +2,8 @@
 Simple application that outputs an audio file when a letter is clicked.
 
 Goal of the app is to learn how each letter of the Alphabet sounds.
+Uses [Dear PyGui](https://github.com/hoffstadt/DearPyGui) toolkit.
+
 
 ## Requirements
 The system needs follwoing dependencies in order to work.
